@@ -6,21 +6,20 @@ Frontend was built with React.js, backend with Express.js and for database I use
 
 Instructions to set the app up:
 
-git clone https://github.com/tonikutlesa/FaceRecognitionApp.git
-Position yourself inside the FaceRecognitionApp directory
-cd server
-npm install
-cd..
-cd client
-npm install
+1. git clone https://github.com/tonikutlesa/FaceRecognitionApp.git
+2. Position yourself inside the FaceRecognitionApp directory
+3. cd server
+4. npm install
+5. cd..
+6. cd client
+7. npm install
 
+Steps to run the app (position yourself inside the NewsPortal directory):
 
-Steps to run the app (position yourself inside the FaceRecognition directory):
+1. cd server
+2. npm start
+3. Open up new terminal
+4. cd client
+5. npm start
 
-cd server
-npm start
-Open up new terminal
-cd client
-Add your own database credentials to server.js line 12
-npm start
 Enjoy!
